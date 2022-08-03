@@ -1,0 +1,20 @@
+* {
+    transition: 0.4s ease;
+}
+
+body {
+    background-color: #fff;
+}
+
+body.dark {
+    background-color: #111;
+    color: #fff;
+}
+
+h1 {
+    color: #ffbf00;
+}
+
+body.dark h1 {
+    color: pink;
+}
